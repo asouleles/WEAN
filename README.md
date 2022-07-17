@@ -9,10 +9,10 @@ doi:
 
 ### Requirements
 
-Python 3.6 or higher
-PyQt5 for GUI environment
-Scipy, statistics packages
-Numpy, pandas packages (the usual suspects)
+* Python 3.6 or higher
+* PyQt5 for GUI environment
+* Scipy, statistics packages
+* Numpy, pandas packages (the usual suspects)
 
 #### For Windows operating system users
 You can download the .exe installation file from here.
@@ -31,7 +31,7 @@ For Windows users, you can download the .exe installation file from here and fol
 
 You can run the python file via command line like this:
 
-python3 WEAN.py
+*python3 WEAN.py*
 
 On Windows, you can use the shortcut created after installation. We strongly reccomend running the program as administrator as this will reduce start up loading time by a lot.
 
