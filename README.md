@@ -15,7 +15,7 @@ doi:
 * Numpy, pandas packages (the usual suspects)
 
 #### For Windows operating system users
-You can download the .exe installation file from here.
+You can download the .exe installation file from [here](https://www.dropbox.com/s/9nrhtnil2qxmd4s/WEAN_installer.exe?dl=0).
 
 
 ## How to use WEAN?
