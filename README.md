@@ -41,4 +41,4 @@ You can read the uploaded documentation for a detailed description of the progra
 ## Contact
 
 
-Please contact Angelos Souleles (angelossouleles at gmail.com) or Elissavet Ganiatsou (eganiat at gmail.com) if you have any further questions/suggestions.
+Please contact Angelos Souleles (angelossouleles at gmail.com) or Elissavet Ganiatsou (eganiatsou at gmail.com) if you have any further questions/suggestions.
