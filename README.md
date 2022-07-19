@@ -1,5 +1,5 @@
 # WEAN
-WEaning Age FiNder (WEAN): A simple tool for visualization of breastfeeding isotopic data
+WEaning Age FiNder (WEAN): A tool for estimating weaning age from isotopic data of dentine microsections
 
 This is a repository containing the scripts used for WEAN. WEAN is a method to o estimate the end of weaning based on measurements of stable isotope ratios of nitrogen, which is the most reliable isotopic indicator of breastmilk consumption up to date. 
 
