@@ -7,7 +7,7 @@ The WEAN tool may be used for scientific research purposes only. You agree to gi
 
 For details, please see the WEAN paper:
 
-### Obtaining WEAN
+### Installation
 
 For Windows operating system users, you can download the .exe installation file from here and follow the instructions.
 
@@ -26,7 +26,7 @@ For Unix-like operating system users, you simply download the WEAN.py file prese
 
 * On Linux, you can run the python file via command line like this:
 
-*python3 WEAN.py*
+  *python3 WEAN.py*
 
 You can read the uploaded documentation for a detailed description of the program alongside useful images. There is also a "toy" dataset to test the program if you do not have your own data yet.
 
@@ -35,4 +35,4 @@ This tool has been improved by the questions, suggestions, and bug reports of th
 
 ## Contact
 
-Please contact Angelos Souleles (angelossouleles at gmail.com), Elissavet Ganiatsou (eganiatsou at gmail.com) or Christina Papageorgopoulou (cpapage@he.duth.gr) if you have any further questions/suggestions.
+Please contact Angelos Souleles (angelossouleles at gmail.com), Elissavet Ganiatsou (eganiatsou at gmail.com) or Christina Papageorgopoulou (cpapage at he.duth.gr) if you have any further questions/suggestions.
