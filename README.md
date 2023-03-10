@@ -1,11 +1,12 @@
 # WEAN
-WEaning Age FiNder (WEAN): A tool for estimating weaning age from isotopic data of dentine microsections
+ WEaning Age FiNder (WEAN): a tool for estimating weaning age from stable isotope ratios of dentinal collagen
 
-This is a repository containing the scripts used for WEAN. WEAN is a method to o estimate the end of weaning based on measurements of stable isotope ratios of nitrogen, which is the most reliable isotopic indicator of breastmilk consumption up to date. 
+WEAN is a tool that employs a mathematical approach to produce automated estimations of weaning ages based on δ15N measurements from incremental dentine collagen. WEAN has an easy-to-use operational environment offering a less time-consuming and labor-intensive procedure to analyze δ15N incremental data.
 
-The approach is described in our paper: ""
+The WEAN may be used for scientific research purposes only. You agree to give credit to the original authors (Ganiatsou E, Souleles A and Papageorgopoulou C, 2023) in any work that results from using the tool.
 
-doi:
+For details, please see the WEAN paper
+
 
 ### Requirements
 
@@ -33,7 +34,7 @@ You can run the python file via command line like this:
 
 *python3 WEAN.py*
 
-On Windows, you can use the shortcut created after installation. We strongly reccomend running the program as administrator as this will reduce start up loading time by a lot.
+On Windows, you can use the shortcut created after installation. We strongly recommend running the program as administrator as this will reduce start up loading time by a lot.
 
 
 You can read the uploaded documentation for a detailed description of the program alongside useful images. There is also a "toy" dataset to test the program if you do not have your own data yet.
