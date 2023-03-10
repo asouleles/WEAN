@@ -1,5 +1,5 @@
 # WEAN
- WEaning Age FiNder (WEAN): a tool for estimating weaning age from stable isotope ratios of dentinal collagen
+# WEaning Age FiNder (WEAN): a tool for estimating weaning age from stable isotope ratios of dentinal collagen
 
 WEAN is a tool that employs a mathematical approach to produce automated estimations of weaning ages based on δ15N measurements from incremental dentine collagen. WEAN has an easy-to-use operational environment offering a less time-consuming and labor-intensive procedure to analyze δ15N incremental data.
 
