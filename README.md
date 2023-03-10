@@ -13,7 +13,6 @@ For Windows operating system users, you can download the .exe installation file 
 
 For Unix-like operating system users, you simply download the WEAN.py file presented here.
 
-
 ### Requirements
 
 * Python 3.6 or higher
