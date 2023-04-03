@@ -5,11 +5,11 @@ WEAN is a tool that employs a mathematical approach to produce automated estimat
 
 The WEAN tool may be used for scientific research purposes only. You agree to give credit to the original authors (Ganiatsou E, Souleles A and Papageorgopoulou C, 2023) in any work that results from using the tool.
 
-For details, please see the WEAN paper:
+For details, please see the WEAN paper: [DOI: 10.1007/s12520-023-01741-4](https://link.springer.com/article/10.1007/s12520-023-01741-4)
 
 ### Installation
 
-For Windows operating system users, you can download the .exe installation file from here and follow the instructions.
+For Windows operating system users, you can download the .exe installation file from [here](https://asouleles.github.io/WEAN_website/download.html) and follow the instructions.
 
 For Unix-like operating system users, you simply download the WEAN.py file presented here.
 
